@@ -1,0 +1,16 @@
+getor
+getor.exe
+/bin/
+/dist/
+
+*.pdf
+
+*.out
+coverage.html
+
+go.work
+go.work.sum
+
+.vscode/
+.idea/
+.DS_Store
